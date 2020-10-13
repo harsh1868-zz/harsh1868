@@ -1,18 +1,16 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Harsh Moradiya! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 
-<a href="https://twitter.com/harsh1868">
-  <img align="left" alt="harsh1868 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/harsh-moradiya/">
   <img align="left" alt="Harsh's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/harsh_s_moradiya/">
-  <img align="left" alt="Harsh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://leetcode.com/h__sh/">
   <img align="left" alt="Harsh's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
+<a href="https://codechef.com/h__sh/">
+  <img align="left" alt="Harsh's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
+
 <br />
 
 ### A little more about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
