@@ -61,9 +61,7 @@ const harsh = {
 <summary>📈 My GitHub Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=harsh1868&show_icons=true&theme=radical" alt="harsh1868" />
 
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh1868&layout=compact&theme=radical" />
-
+[//]:  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh1868&layout=compact&theme=radical" />
 </details>
 
 
