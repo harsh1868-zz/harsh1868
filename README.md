@@ -1,7 +1,8 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
   
   
- I'm Harsh Moradiya! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+### I'm Harsh Moradiya! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+
 <a href="https://twitter.com/harsh1868">
   <img align="left" alt="harsh1868 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -17,7 +18,7 @@
 
 
 <br />
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const anmol = {
