@@ -16,7 +16,7 @@
 
 <br />
 
-Hi, I'm [Harsh Moradiya], 🚀 from India, currently, I'm pursuing my COmputer Engineering 🙍🏽‍♂️. I love to spend my time in coding. Beside's programming, I enjoy eating food and traveling and last but not least playing on Guitar.
+Hi, I'm <b>Harsh Moradiya</b>, 🚀 from India, currently, I'm pursuing my Computer Engineering 🙍🏽‍♂️. I love to spend my time in coding. Beside's programming, I enjoy eating food and traveling and last but not least playing on Guitar.
 
   <img align="right" alt="GIF" src="https://github.com/harsh1868/harsh1868/blob/main/code.gif" width="500" height="320" />
   
