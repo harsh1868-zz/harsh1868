@@ -10,6 +10,10 @@
 <a href="https://www.codechef.com/users/h__sh">
   <img align="left" alt="Harsh's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
+<a href="https://www.hackerrank.com/harsh1822">
+  <img align="left" alt="Harsh's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
+
 
 <br />
 
