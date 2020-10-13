@@ -29,8 +29,9 @@ const harsh = {
         },
         backEnd: {
             js: ["node"],
-            python: ["django"]
+            python: ["django"],
         },
+        dotNet : ["Asp.net MVC","Asp.net Core"],
         databases: ["mongo", "MySql"],
         misc: ["Firebase", "Flutter", "Javascript", "Github"]
     },
