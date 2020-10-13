@@ -33,8 +33,8 @@ Hi, I'm [Harsh Moradiya], 🚀 from India, currently, I'm pursuing my COmputer E
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
+<details>
 <summary>📈 My GitHub Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=harsh1868&show_icons=true&theme=gotham" alt="harsh1868" />
-
+</details>
 
