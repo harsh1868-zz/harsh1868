@@ -1,7 +1,5 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-  
-  
-### I'm Harsh Moradiya! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Harsh Moradiya! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+
 
 <a href="https://twitter.com/harsh1868">
   <img align="left" alt="harsh1868 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -15,13 +13,12 @@
 <a href="https://leetcode.com/h__sh/">
   <img align="left" alt="Harsh's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-
-
 <br />
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+### A little more about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30">
 
 ```javascript
-const anmol = {
+const harsh = {
     pronouns: "He" | "Him",
     code: ["C++","Python", "Java"],
     technologies: {
@@ -45,6 +42,7 @@ const anmol = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
+<img align="right"  src="https://github.com/harsh1868/harsh1868/blob/main/code.gif" width="500" height="300">
  
 **Talking about Personal Stuffs:**
 
