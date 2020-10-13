@@ -1,5 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+  
+  
+ I'm Harsh Moradiya! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <a href="https://twitter.com/harsh1868">
   <img align="left" alt="harsh1868 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -15,12 +17,34 @@
 
 
 <br />
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-Hi, I'm <b>Harsh Moradiya</b>, 🚀 from India, currently, I'm pursuing my Computer Engineering 🙍🏽‍♂️. I love to spend my time in coding. Beside's programming, I enjoy eating food and traveling and last but not least playing on Guitar.
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["C++","Python", "Java"],
+    technologies: {
+        mobileApp: ["Android App"],
+        frontEnd: {
+            js: ["Angular"],
+            css: ["bootstrap"]
+        },
+        backEnd: {
+            js: ["node"],
+            python: ["django"]
+        },
+        databases: ["mongo", "MySql"],
+        misc: ["Firebase", "Flutter", "Javascript", "Github"]
+    },
+    currentFocus: "Comptetive Programming using C++",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 
-  <img align="right" alt="GIF" src="https://github.com/harsh1868/harsh1868/blob/main/code.gif" width="500" height="320" />
-  
-  
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
+ 
 **Talking about Personal Stuffs:**
 
 - 💬 Ask me about anything, I am happy to help;
