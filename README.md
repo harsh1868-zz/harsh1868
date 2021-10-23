@@ -24,17 +24,17 @@ const harsh = {
     pronouns: "He" | "Him",
     code: ["C++","Python", "Java"],
     technologies: {
+        backEnd: {
+            java: ["spring boot"],
+            python: ["django"],
+        },
         mobileApp: ["Android App"],
         frontEnd: {
             js: ["Angular"],
             css: ["bootstrap"]
-        },
-        backEnd: {
-            js: ["node"],
-            python: ["django"],
-        },
+        },        
         dotNet : ["Asp.net MVC","Asp.net Core"],
-        databases: ["mongo", "MySql"],
+        databases: ["MySql", "PostgreSQL"],
         misc: ["Firebase", "Flutter", "Javascript", "Github"]
     },
     currentFocus: "Comptetive Programming using C++",
